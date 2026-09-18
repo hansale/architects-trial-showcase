@@ -1,0 +1,35 @@
+{
+  "capture_date": "2026-09-16",
+  "screenshots": {
+    "combat": "save-ui-20260916/battle-restored.png",
+    "lobby": "save-ui-20260916/lobby-settings.png",
+    "ancient": "save-ui-20260916/ancient-native-choices.png",
+    "ancient-resolved": "save-ui-20260916/ancient-replacement-applied.png",
+    "cards": "ui-review-20260916-followup/01-card-selection-backdrop.png",
+    "card-inspection": "ui-review-20260916/04-native-card-inspection.png",
+    "card-override": "ui-review-20260916/05-override-card-selection.png",
+    "potion-draft": "ui-review-20260916-followup/02-potion-selection-backdrop.png",
+    "potion-window": "ui-review-20260916-followup/05-architect-pass-readable.png",
+    "relics": "ui-review-20260916/14-native-shop-relics.png",
+    "chest": "ui-review-20260916/13-native-treasure-chest.png",
+    "chest-reach": "ui-review-20260916-followup/03-champion-reaching-hand.png",
+    "chest-grab": "ui-review-20260916-followup/04-champion-grabs-relic.png"
+  },
+  "gif_sequences": {
+    "reward-choices": [
+      "cards",
+      "card-inspection",
+      "card-override"
+    ],
+    "ancient-override": [
+      "ancient",
+      "ancient-resolved"
+    ],
+    "treasure-chest": [
+      "chest",
+      "chest-reach",
+      "chest-grab"
+    ]
+  },
+  "note": "Actual game captures. GIFs are screenshot sequences, not recorded video. Some captures show local QA controls or earlier UI states. See media-credits.md."
+}
